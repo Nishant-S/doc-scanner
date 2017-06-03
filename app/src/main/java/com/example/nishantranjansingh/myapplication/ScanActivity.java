@@ -12,9 +12,6 @@ import org.opencv.android.BaseLoaderCallback;
 import org.opencv.android.LoaderCallbackInterface;
 import org.opencv.android.OpenCVLoader;
 
-/**
- * Created by jhansi on 28/03/15.
- */
 public class ScanActivity extends Activity implements IScanner, ComponentCallbacks2 {
 
     @Override

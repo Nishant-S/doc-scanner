@@ -16,9 +16,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by jhansi on 28/03/15.
- */
 public class PolygonView extends FrameLayout {
 
     protected Context context;

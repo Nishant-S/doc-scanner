@@ -16,9 +16,6 @@ import android.widget.ImageView;
 
 import java.io.IOException;
 
-/**
- * Created by jhansi on 29/03/15.
- */
 public class ResultFragment extends Fragment {
 
     private View view;
